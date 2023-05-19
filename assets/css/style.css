@@ -43,10 +43,13 @@ li a {
     font-weight: 800;
 }
 
+/* Headings and Paragraps */
 h2, h3 {
     font-family: 'Lora', serif;
+    color:#4a4453
 }
 
 p {
     font-family: 'Cardo', serif;
+    color:#4a4453
 }
