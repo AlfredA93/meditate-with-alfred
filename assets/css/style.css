@@ -51,5 +51,9 @@ h2, h3 {
 
 p {
     font-family: 'Cardo', serif;
-    color:#4a4453
+    color:#000000
+}
+
+#hero {
+    width:100%;
 }
