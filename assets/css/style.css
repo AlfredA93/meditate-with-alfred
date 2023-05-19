@@ -58,3 +58,7 @@ p {
     width:100%;
     position: relative;
 }
+
+.text-center {
+    text-align: center;
+}
