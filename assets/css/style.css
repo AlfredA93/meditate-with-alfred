@@ -46,12 +46,10 @@ li a {
 /* Headings and Paragraps */
 h2, h3 {
     font-family: 'Lora', serif;
-    color:#4a4453
 }
 
 p {
     font-family: 'Cardo', serif;
-    color:#000000
 }
 
 #hero {
@@ -71,6 +69,7 @@ p {
     flex-wrap:wrap;
     align-content:space-around;
     gap: 1em;
+    padding-top: 1%;
 }
 
 .flexitem {
@@ -80,4 +79,23 @@ p {
     border-radius: 8%;
     border-spacing: 2px;
     padding:5px;
+}
+
+#color1 {
+    background-color: #2B1B53;
+    color: #FFFADE;
+}
+
+#color2 {
+    background-color: #503D79;
+    color: #FFFADE;
+}
+
+#color3 {
+    background-color: #4a4453;
+    color: #FFFADE;
+}
+
+#color1 h3, #color2 h3, #color3 h3 {
+    letter-spacing: 1px;
 }
