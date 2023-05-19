@@ -99,3 +99,15 @@ p {
 #color1 h3, #color2 h3, #color3 h3 {
     letter-spacing: 1px;
 }
+
+table {
+    font-size:larger;
+    width: 75%;
+    text-align: center;
+    margin: 0 auto;
+    border: #4a4453 solid 1px;
+}
+
+th, td {
+    border-bottom: #4a4453 1px solid; 
+}
