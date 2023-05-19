@@ -7,7 +7,19 @@ font-family: 'Lora', serif;
 #mainlogo {
     font-family: 'Lora', serif;
     font-size: 300%;
-    float: left;
+    float:left;
     margin: 0;
     color: #4a4453
+}
+
+#navbar {
+    font-family: 'Lora', serif;
+    font-size: 125%;
+    margin-right: 2rem;
+    color: #4a4453;
+    letter-spacing: 1px;
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    float: right;
 }
