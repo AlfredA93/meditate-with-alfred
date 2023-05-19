@@ -12,14 +12,32 @@ font-family: 'Lora', serif;
     color: #4a4453
 }
 
+#current {
+    font-weight: 600;
+}
+
 #navbar {
     font-family: 'Lora', serif;
     font-size: 125%;
-    margin-right: 2rem;
+    margin-top: 0.1rem;
     color: #4a4453;
     letter-spacing: 1px;
-    list-style-type: none;
-    text-decoration: none;
     display: flex;
-    float: right;
+    justify-content: flex-end;
 }
+
+.navitems {
+    padding:15px;
+    list-style-type: none;
+    
+}
+
+li a {
+    text-decoration: none;
+    color:#4a4453
+}
+
+.navitems a:hover {
+    font-weight: 600;
+}
+
