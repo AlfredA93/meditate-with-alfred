@@ -170,6 +170,17 @@ footer a {
     font-size:500%;
 }
 
-.gallery {
+#gallery {
     column-count: 3;
+    column-gap: 0px;
+    line-height: 0;
+
+}
+
+#gallery > img {
+    width:98%;
+    border-radius: 10px;
+    margin: 2px 2px 2px 2px;
+    
+
 }
