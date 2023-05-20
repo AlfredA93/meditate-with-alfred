@@ -23,18 +23,40 @@
     </header>
     <main>
         <section>
-            <form>
-                <label></label>
-                <input>
-                <label></label>
-                <input>
-                <label></label>
-                <input>
-                <label></label>
-                <input>
-
-                <input>
-            </form>
+            <div id="form-container">
+             <form method="GET" action="thankyou.html">
+                <div>
+                    <label for="forename">Forename</label>
+                    <input type="text" id="forename" required>
+                </div>
+                <br>
+                <div></div>
+                    <label for="surname">Surname</label>
+                    <input type="text" id="surname" required>
+                </div>
+                <br>
+                <div>
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" required>
+                </div>
+                <div>
+                    <p><b>What're you interested in?</b> <em>(Check all that apply)</em></p>
+                    <p></p>
+                    <input type="checkbox" id="retreat">
+                    <label for="retreat">Retreats</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="online-med">
+                    <label for="online-med">Online Meditations</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="person-med">
+                    <label for="person-med">In-Person Meditations</label>
+                </div>
+                <br>
+                <input type="submit" value="Let's Meditate">
+             </form>
+            </div>
         </section>
     </main>
     <footer>
