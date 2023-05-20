@@ -188,4 +188,14 @@ footer a {
 
 .retreats-main > img {
     width:100%;
+    border-radius: 10px;
+}
+
+.retreats-text {
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+    min-height: 100px;
+    min-width: 100px;
+    border-radius: 10px;
+    border-spacing: 10px 30px;
 }
