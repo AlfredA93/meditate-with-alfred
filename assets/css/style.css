@@ -181,3 +181,11 @@ footer a {
     border-radius: 10px;
     margin: 2px 2px 2px 2px;
 }
+
+#retreats-container {
+    column-count: 2;
+}
+
+.retreats-main > img {
+    width:100%;
+}
