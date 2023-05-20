@@ -60,6 +60,14 @@ p {
     background-size: cover;
 }
 
+#hero-container {
+    padding:5% 5%;
+    color:#FFFADE;
+    background-color: rgba( 0, 0, 0, 0.85);
+    width: 150px;
+    right: 150px;
+}
+
 .text-center {
     text-align: center;
     padding-bottom:15px;
