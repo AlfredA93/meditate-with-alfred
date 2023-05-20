@@ -78,6 +78,18 @@ p {
     position: absolute;
     bottom:30px;
     left: 30px;
+    border-radius: 10px;
+}
+
+button {
+    font-family: 'Lora', serif;
+    font-size: 100%;
+    color: #000000;
+    text-decoration: none;
+}
+
+button a {
+    text-decoration: none;
 }
 
 .text-center {
