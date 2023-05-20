@@ -101,6 +101,7 @@ button:hover {
 .text-center {
     text-align: center;
     padding-bottom:15px;
+    padding-top: 15px;
 }
 
 .flex {
