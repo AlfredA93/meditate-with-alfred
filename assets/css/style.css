@@ -206,10 +206,12 @@ footer a {
 
 #form-container {
     text-align:center;
-    background-color: rgba( 0, 0, 0, 0.1);
+    font-size: larger;
+    background-color: rgba( 0, 0, 0, 0.5);
     padding: 25% 25% 25% 25%;
     color: #FFFADE;
 }
+
 
 
 
