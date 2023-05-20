@@ -58,14 +58,15 @@ p {
     width:100%;
     height: 475px;
     background-size: cover;
+    position: relative;
 }
 
-#hero-container {
+#hero-text {
     padding:5% 5%;
     color:#FFFADE;
     background-color: rgba( 0, 0, 0, 0.85);
     width: 150px;
-    right: 150px;
+
 }
 
 .text-center {
