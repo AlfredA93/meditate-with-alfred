@@ -83,14 +83,20 @@ p {
 
 button {
     font-family: 'Lora', serif;
-    font-size: 100%;
+    font-size: 112.5%;
     color: #000000;
-    text-decoration: none;
 }
 
 button a {
     text-decoration: none;
+    color:#000000;
 }
+
+button:hover {
+    border: solid #A07EE6 2px;
+    border-radius: 2px;
+}
+
 
 .text-center {
     text-align: center;
