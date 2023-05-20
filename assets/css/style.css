@@ -111,7 +111,7 @@ button a {
     width:25%;
     text-align: center;
     border:#000000 solid 1px;
-    border-radius: 8%;
+    border-radius: 10px;
     border-spacing: 2px;
     padding:5px;
 }
