@@ -55,23 +55,29 @@ p {
 /* Hero Image */
 
 #hero-container {
-    
+    height: 475px;
+    width:100%;
+    position:relative;
 }
 
 
 #hero {
     background-image: url(../images/hero-image3.jpg);
     width:100%;
-    height: 475px;
+    height:475px;
     background-size: cover;
     position: relative;
 }
 
 #hero-text {
-    padding:5% 5%;
+    text-align: center;
+    padding: 10px 10px 30px 10px;
     color:#FFFADE;
     background-color: rgba( 0, 0, 0, 0.85);
-    width: 150px;
+    width: 300px;
+    position: absolute;
+    bottom:30px;
+    left: 30px;
 }
 
 .text-center {
