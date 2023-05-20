@@ -169,3 +169,7 @@ footer {
 footer a {
     font-size:500%;
 }
+
+.gallery {
+    column-count: 3;
+}
