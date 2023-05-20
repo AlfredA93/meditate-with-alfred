@@ -199,10 +199,14 @@ footer a {
     border-radius: 10px;
 }
 
+#backgroundimage {
+    background-image: url(../images/background-5.jpg);
+    background-size:cover;
+}
 
 #form-container {
     text-align:center;
-    background-color: rgba( 0, 0, 0, 0.85);
+    background-color: rgba( 0, 0, 0, 0.1);
     padding: 25% 25% 25% 25%;
     color: #FFFADE;
 }
