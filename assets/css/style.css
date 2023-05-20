@@ -53,8 +53,12 @@ p {
 }
 
 #hero {
+    background-image: url(../images/hero-image3.jpg);
     width:100%;
-    position: relative;
+    height: 475px;
+    background-size: cover;
+
+
 }
 
 .text-center {
