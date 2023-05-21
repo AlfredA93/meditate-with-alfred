@@ -313,10 +313,6 @@ footer p {
         color: #343434
     }
     
-    #current {
-        font-weight: 600;
-    }
-    
     #navbar {
         font-family: 'Noto Sans JP', sans-serif;
         font-size: 125%;
@@ -357,10 +353,6 @@ footer p {
         color: #343434
     }
     
-    #current {
-        font-weight: 600;
-    }
-    
     #navbar {
         font-family: 'Noto Sans JP', sans-serif;
         font-size: 125%;
@@ -368,7 +360,6 @@ footer p {
         letter-spacing: 1px;
         padding-top: 60px;
         text-align: center;
-
     }
 
     #hero {
@@ -408,7 +399,6 @@ footer p {
         font-size: 220%;
         position: absolute;
         text-align: center;
-        margin: 0;
         color: #343434
     }
     
