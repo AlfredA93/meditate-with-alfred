@@ -95,6 +95,8 @@ p {
     border-radius: 10px;
 }
 
+/* Buttons */
+
 button {
     font-family: 'Jost', sans-serif;
     font-size: 112.5%;
@@ -277,3 +279,19 @@ Navigation under Logo - Centralised
 #webp image compression
 
 */
+
+@media screen and (min-width: 1440px) {
+    #hero-container {
+        height: 700px;
+        width:100%;
+        position:relative;
+    }
+
+    #hero {
+        background-image: url(../webpimages/hero-image3.webp);
+        width:100%;
+        height:700px;
+        background-size: cover;
+        position: relative;
+    }
+}
