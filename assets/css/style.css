@@ -426,5 +426,19 @@ Navigation under Logo - Centralised
     border-spacing: 2px;
     padding: 5px 5px 5px 5px;
     min-height: 125px;
-}
+    }
+
+    #retreats-container {
+        column-count: 1;
+    }
+
+    #gallery {
+        column-count: 2;
+        column-gap: 0px;
+        line-height: 0;
+    }
+
+    .retreats-text div {
+        margin: 0;
+    }
 }
