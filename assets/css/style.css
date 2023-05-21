@@ -291,13 +291,13 @@ footer p {
         position: relative;
     }
 
-#retreats-text {
-    text-align: center;
-    padding: 30px 30px 100px 30px;
-    min-height: 100px;
-    min-width: 100px;
-    border-radius: 10px;
-}
+    #retreats-text {
+        text-align: center;
+        padding: 30px 30px 100px 30px;
+        min-height: 100px;
+        min-width: 100px;
+        border-radius: 10px;
+    }
 }
 
 /* Responsive Design for max Screen 900px */
@@ -344,6 +344,7 @@ footer p {
 }
 
 @media screen and (max-width:800px) {
+    
     #mainlogo {
         font-family: 'Noto Sans JP', sans-serif;
         font-size: 300%;
@@ -421,13 +422,13 @@ footer p {
     }
 
     .flexitem {
-    width:25%;
-    text-align: center;
-    border:#000000 solid 1px;
-    border-radius: 10px;
-    border-spacing: 2px;
-    padding: 5px 5px 5px 5px;
-    min-height: 125px;
+        width:25%;
+        text-align: center;
+        border:#000000 solid 1px;
+        border-radius: 10px;
+        border-spacing: 2px;
+        padding: 5px 5px 5px 5px;
+        min-height: 125px;
     }
 
     #retreats-container {
