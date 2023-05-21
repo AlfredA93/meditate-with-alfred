@@ -376,6 +376,12 @@ footer p {
         width:auto;
         height: auto;
     }
+
+    #gallery {
+        column-count: 3;
+        column-gap: 0px;
+        line-height: 0;
+    }
 }
 
 /* Responsive Design for max Screen 500px */
