@@ -31,7 +31,7 @@
 
 li a {
     text-decoration: none;
-    color:#4a4453
+    color:#343434
 }
 
 .navitems a:hover {
@@ -89,12 +89,12 @@ p {
 button {
     font-family: 'Jost', sans-serif;
     font-size: 112.5%;
-    color: #000000;
+    color: #343434;
 }
 
 button a {
     text-decoration: none;
-    color:#000000;
+    color:#343434;
 }
 
 button:hover {
@@ -117,7 +117,7 @@ button:hover {
 .flexitem {
     width:25%;
     text-align: center;
-    border:#000000 solid 1px;
+    border:#343434 solid 1px;
     border-radius: 10px;
     border-spacing: 2px;
     padding: 10px 10px 10px 10px;
@@ -159,7 +159,7 @@ button:hover {
     color: #fffce1;
     text-align: center;
     padding: 10px 10px;
-    border: #4a4453 solid 1px;
+    border: #343434 solid 1px;
     background-color: rgba( 0, 0, 0, 0.85);
 }
 
@@ -417,7 +417,7 @@ footer p {
     .flexitem {
         width:25%;
         text-align: center;
-        border:#000000 solid 1px;
+        border:#343434 solid 1px;
         border-radius: 10px;
         border-spacing: 2px;
         padding: 5px 5px 5px 5px;
