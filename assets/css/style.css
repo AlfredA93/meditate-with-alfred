@@ -1,13 +1,20 @@
-  @import url('https://fonts.googleapis.com/css2?family=Cardo&family=Lora&display=swap');
+ /* @import url('https://fonts.googleapis.com/css2?family=Cardo&family=Lora&display=swap'); */
+
+  @import url('https://fonts.googleapis.com/css2?family=Jost&family=Noto+Sans+JP:wght@500&display=swap');
 
 /*
 font-family: 'Cardo', serif;
 font-family: 'Lora', serif; 
 */
 
+/*
+font-family: 'Jost', sans-serif;
+font-family: 'Noto Sans JP', sans-serif;
+*/
+
 /* Logo and Navigation Bar */
 #mainlogo {
-    font-family: 'Lora', serif;
+    font-family: 'Noto Sans JP', sans-serif;
     font-size: 300%;
     float:left;
     margin: 0;
@@ -19,7 +26,7 @@ font-family: 'Lora', serif;
 }
 
 #navbar {
-    font-family: 'Lora', serif;
+    font-family: 'Noto Sans JP', sans-serif;
     font-size: 125%;
     margin-top: 20px;
     color: #4a4453;
@@ -52,11 +59,11 @@ li a {
 }
 
 h2, h3 {
-    font-family: 'Lora', serif;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 p {
-    font-family: 'Cardo', serif;
+    font-family: 'Jost', sans-serif;
 }
 
 /* Hero Image */
@@ -89,7 +96,7 @@ p {
 }
 
 button {
-    font-family: 'Lora', serif;
+    font-family: 'Jost', sans-serif;
     font-size: 112.5%;
     color: #000000;
 }
