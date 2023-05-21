@@ -80,6 +80,7 @@ p {
     width:100%;
     height:435px;
     background-size: cover;
+    background-position: center;
     position: relative;
 }
 
@@ -320,7 +321,7 @@ Navigation under Logo - Centralised
     }
 
     #hero {
-        background-image: url(../webpimages/hero-image2.webp);
+        background-image: url(../webpimages/hero-image4.webp);
         width:100%;
         height:450px;
         background-size: fill;
@@ -366,7 +367,7 @@ Navigation under Logo - Centralised
     }
 
     #hero {
-        background-image: url(../webpimages/hero-image2.webp);
+        background-image: url(../webpimages/hero-image4.webp);
         width:100%;
         height:450px;
         background-size: fill;
