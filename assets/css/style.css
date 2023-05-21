@@ -225,6 +225,7 @@ footer a {
 #form-container {
     text-align:center;
     font-size: larger;
+    font-family: 'Jost', sans-serif;
     letter-spacing: 0.5px;
     background-color: rgba( 0, 0, 0, 0.5);
     padding: 25% 25% 25% 25%;
