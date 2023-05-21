@@ -18,7 +18,7 @@ font-family: 'Noto Sans JP', sans-serif;
     font-size: 300%;
     float:left;
     margin: 0;
-    color: #4a4453
+    color: #343434
 }
 
 #current {
@@ -29,7 +29,7 @@ font-family: 'Noto Sans JP', sans-serif;
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 125%;
     margin-top: 20px;
-    color: #4a4453;
+    color: #343434;
     letter-spacing: 1px;
     display: flex;
     justify-content: flex-end;
@@ -69,7 +69,7 @@ p {
 /* Hero Image */
 
 #hero-container {
-    height: 475px;
+    height: 435px;
     width:100%;
     position:relative;
 }
@@ -78,7 +78,7 @@ p {
 #hero {
     background-image: url(../images/hero-image3.jpg);
     width:100%;
-    height:475px;
+    height:435px;
     background-size: cover;
     position: relative;
 }
