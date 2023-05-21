@@ -384,9 +384,9 @@ footer p {
     }
 }
 
-/* Responsive Design for max Screen 500px */
+/* Responsive Design for max Screen 550px */
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:550px) {
     
     #mainlogo {
         font-family: 'Noto Sans JP', sans-serif;
