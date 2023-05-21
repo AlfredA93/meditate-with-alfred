@@ -274,20 +274,7 @@ footer p {
     border-radius: 10px;
 }
 
-
-/* 
-Responsiveness Styles to focus on -
-
-
-Navigation under Logo - Centralised
-
-#retreats-container - 1 column - Centralised
-
-#gallery down to 2 columns  
-
-#webp image compression
-
-*/
+/* Responsive Design for 2K+ Screens */
 
 @media screen and (min-width: 1440px) {
     #hero-container {
@@ -304,6 +291,8 @@ Navigation under Logo - Centralised
         position: relative;
     }
 }
+
+/* Responsive Design for max Screen 900px */
 
 @media screen and (max-width:900px) {
 
@@ -395,7 +384,14 @@ Navigation under Logo - Centralised
         left: 10px;
         border-radius: 10px;
     }
+    
+    iframe {
+        width:auto;
+        height: auto;
+    }
 }
+
+/* Responsive Design for max Screen 500px */
 
 @media screen and (max-width:500px) {
     
