@@ -450,3 +450,25 @@ footer p {
         line-height: 0;
     }
 }
+
+/* For very small screens or windows under 375px */
+
+@media screen and (max-width:374px) {
+
+    #mainlogo {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 175%;
+        position: absolute;
+        text-align: center;
+        color: #343434
+    }
+    
+    #navbar {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 125%;
+        color: #343434;
+        letter-spacing: 1px;
+        text-align: center;
+        padding-top: 75px;
+    }
+}
