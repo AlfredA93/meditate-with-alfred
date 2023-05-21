@@ -388,3 +388,43 @@ Navigation under Logo - Centralised
         border-radius: 10px;
     }
 }
+
+@media screen and (max-width:500px) {
+    
+    #mainlogo {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 220%;
+        position: absolute;
+        text-align: center;
+        margin: 0;
+        color: #343434
+    }
+    
+    #navbar {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 125%;
+        color: #343434;
+        letter-spacing: 1px;
+        text-align: center;
+    }
+
+    .flex {
+        display:flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-wrap:wrap;
+        align-content:space-around;
+        gap: 2px;
+        padding-top: 1%;
+    }
+
+    .flexitem {
+    width:25%;
+    text-align: center;
+    border:#000000 solid 1px;
+    border-radius: 10px;
+    border-spacing: 2px;
+    padding: 5px 5px 5px 5px;
+    min-height: 125px;
+}
+}
