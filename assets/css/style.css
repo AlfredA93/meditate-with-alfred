@@ -290,6 +290,14 @@ footer p {
         background-size: cover;
         position: relative;
     }
+
+#retreats-text {
+    text-align: center;
+    padding: 30px 30px 100px 30px;
+    min-height: 100px;
+    min-width: 100px;
+    border-radius: 10px;
+}
 }
 
 /* Responsive Design for max Screen 900px */
