@@ -347,9 +347,9 @@ footer p {
     }
 }
 
-/* Responsive Design for max Screen 550px */
+/* Responsive Design for max Screen 525px */
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:525px) {
     
     #mainlogo {
         font-size: 220%;
