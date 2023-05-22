@@ -45,29 +45,29 @@ Meditate With Alfred is a website for anyone and everyone who would like to medi
 
 - **Retreats Page**
     - This page gives the user information about the retreats held and if there is any upcoming retreats, they will appear on this page.
-    - This page also includes a Gallery where users can see examples of what happens on retreats.
+    - This page also includes a **Gallery** where users can see examples of what happens on retreats.
     - The user should feel excited and further encouraged to participate with Meditate With Alfred in retreats.
 
 (insert Retreats photos here)
 
 - **Join Us page**
-    - This page has an interactive form where the user can share their information in return for a free meditation. They are asked for their name, email and whether they're interested in online, in person or retreat meditations.
+    - This page has an interactive **form** where the user can share their information in return for a free meditation. They are asked for their name, email and whether they're interested in online, in person or retreat meditations.
     - The user should feel motivated to fill in the form. 
 
 (insert Join Us photo here)
 
 - **Thank You page**
-    - This page has an embedded YouTube video. This is a free 15 minute meditation for the user, as a thank you for registering their details with Meditate With Alfred.
+    - This page has an embedded **YouTube video**. This is a free 15 minute meditation for the user, as a thank you for registering their details with Meditate With Alfred.
     - The user should feel appreciated and welcomed to the Meditate With Alfred website and excited to receive an email from the Meditate With Alfred team.
 
 (insert Thank you page photo here)
 
-### Potential Future Features
+### **Potential Future Features**
 - Add a members area for subscription based users. Here there would be exclusive meditations, Q&A's with Alfred and more ways to experience community within Meditate With Alfred.
 
 ## Design
 ------
-I found inspiration for this website from YouTube and Find What Feels Good community Yoga Teacher Adrienne at her website [Find What Feels Good](https://fwfg.com)
+I found inspiration for this website from YouTube and Find What Feels Good community Yoga Teacher Adrienne at her website [Find What Feels Good](https://fwfg.com). Wireframes for the design are at the bottom of this README.
 
 The colour palette for Meditate With Alfred was intended to be peaceful and welcoming, with consistent design across all pages. The colours were found on on the website [mycolor](https://mycolor.space/)
 
@@ -79,7 +79,7 @@ The colour palette for Meditate With Alfred was intended to be peaceful and welc
     - Chrome
     - Firefox
     - Brave
-### Validator Testing
+### **Validator Testing**
 - **HTML**
     - [W3C HTML Validator](https://validator.w3.org/#validate_by_uri+with_options)
 
@@ -89,7 +89,7 @@ The colour palette for Meditate With Alfred was intended to be peaceful and welc
 - **Lighthouse**
     - Developer Tools Lighthouse Accessability Checker
 
-### Responsiveness
+### **Responsiveness**
 - I tested the responsiveness of Meditate With Alfred using the developer tools of my browser and changing the screen size to fit each major device. I also dragged the screen from wide to skinny so make sure that all common device sizes are covered. 
 
 - To make sure Meditate With Alfred is accessible to all devices I added Media Queries and associated styling for the following sizes:
@@ -101,17 +101,17 @@ The colour palette for Meditate With Alfred was intended to be peaceful and welc
 
 (insert photos here)
 
-### Bugs
+### **Bugs**
 
 - Problem: After changing the image path when converting images from jpeg to webp, images do not show.
-- *Solution: incorrect file type was written. Update to .webp from .jpeg*
+    - *Solution: incorrect file type was written. Update to .webp from .jpeg*
 
 - Problem: Hero image text not appearing on top of hero image
-- *Solution: Set the `position` of hero image text to `absolute`*
+    - *Solution: Set the `position` of hero image text to `absolute`*
 
-#### Unfixed Bugs
+#### **Unfixed Bugs**
 
-None
+- None
 
 ## Mistakes
 ------
