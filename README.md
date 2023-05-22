@@ -66,7 +66,7 @@ Meditate With Alfred is a website for anyone and everyone who would like to medi
     - This page has an embedded **YouTube video**. This is a free 15 minute meditation for the user, as a thank you for registering their details with Meditate With Alfred.
     - The user should feel appreciated and welcomed to the Meditate With Alfred website and excited to receive an email from the Meditate With Alfred team.
 
-     ![Thank You](assets/documentation/thankyou.png)
+     ![Thank You](assets/documentation/thankyou-2.png)
 
 ### **Potential Future Features**
 - Add a members area for subscription based users. Here there would be exclusive meditations, Q&A's with Alfred and more ways to experience community within Meditate With Alfred.
@@ -87,12 +87,17 @@ The colour palette for Meditate With Alfred was intended to be peaceful and welc
     - Brave
 ### **Validator Testing**
 - **HTML**
-    - [W3C HTML Validator](https://validator.w3.org/#validate_by_uri+with_options)
+    - [W3C HTML Validator](https://validator.w3.org/#validate_by_uri+with_options) has confirmed Meditate With Alfred has 0 errors.
+
+     ![HTML Valid](assets/documentation/html-valid.png)
+     ![HTML Valid](assets/documentation/html-valid-2.png)
+     ![HTML Valid](assets/documentation/html-valid-3.png)
+     ![HTML Valid](assets/documentation/html-valid-4.png)
 
 - **CSS**
     - [W3C CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/) has confirmed Meditate With Alfred has 0 errors.
 
-    ![CSS Valid](assets/documentation/CSS-valid.png)
+    ![CSS Valid](assets/documentation/css-valid.png)
 
 - **Lighthouse**
     - Developer Tools Lighthouse Accessability Checker gave Meditate With Alfred 100 on Performance, Accessibility, Best Practices and SEO
