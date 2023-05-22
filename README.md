@@ -97,7 +97,7 @@ The colour palette for Meditate With Alfred was intended to be peaceful and welc
     - Tablets (900px max width)
     - Medium to large phones, inluding foldable phones. (800px max width)
     - Smaller phones eg. iPhone SE (width 375px - 550px max width)
-    - Very small screens (300-374px max width)
+    - Very small screens (330-374px max width)
 
 (insert photos here)
 
