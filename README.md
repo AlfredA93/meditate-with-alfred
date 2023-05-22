@@ -1,8 +1,11 @@
+ ![Logo](assets/documentation/logo.png)
+
+
 # Meditate With Alfred
 
-Meditate With Alfred is a website for anyone and everyone who would like to meditate. Whether they are brand new to practicing meditation or a more experienced meditator, this site offers infomation for people to join Alfred in group meditations whether online or locally, in Cologne, Germany. You can visit the site [here](.......)
+Meditate With Alfred is a website for anyone and everyone who would like to meditate. Whether they are brand new to practicing meditation or a more experienced meditator, this site offers infomation for people to join Alfred in group meditations whether online or locally, in Cologne, Germany. You can visit the site [here](https://alfreda93.github.io/meditate-with-alfred/)
 
-(insert ami.responsivedesign.is image here)
+![am i responsive](assets/documentation/amiresponsive.png)
 
 ## Features 
 ------
@@ -15,52 +18,55 @@ Meditate With Alfred is a website for anyone and everyone who would like to medi
         - Join Us - takes the user to a form page where they can register their interest in participating in group meditations and receive a free meditation as a thank you for filling in the form.
     - These links have an animated <b>bold</b> affect when the mouse is hovered over the top of each.
 
-(insert Navigation Bar image here)
+        ![Nav Bar Photo](assets/documentation/nav-bar.png)
 
 - **The Landing Page/Hero Image**
     - The landing page includes a photo to clearly set the peaceful tone that the aim of this website creates.
     - Overlayed the Hero Image is a call to action text with interactive button.
     - The interactive button takes the user through the Join Us page, where they can fill in user information and receive a free meditation as a thank you.
 
-(insert Hero Image picture here)
+    ![Landing Page](assets/documentation/landing-page.png)
 
 - **Why Meditate? Section**
     - This section of the home page should clearly express the benefits of practicing meditation.
     - The user should feel gently encouraged to join the group for meditation practice.
 
-(insert Why Meditate picture here)
+    ![Why Meditate?](assets/documentation/why-med.png)
 
-- **Sessions section**
+- **Let's Meditate section**
     - This section shows the user when they can join in with group meditations.
     - It should show the user that it doesn't matter where they are, they can participate from anywhere on the globe.
 
-(inset Sessions picture here)
+    ![Sessions](assets/documentation/lets-med.png)
 
 - **Footer**
     - The footer section includes links to YouTube and LinkedIn social links for the user to connect with the group and Alfred, the meditation teacher across different platforms.
     - This section is consistent across all pages, so the user can easily locate a way to connect over Social Media platforms. 
     - The footer also includes a Copyright logo which helps to give the user confidence that the business is professional and legitimate.
 
-(insert Footer picture here)
+    ![Footer](assets/documentation/footer-socials.png)
 
 - **Retreats Page**
     - This page gives the user information about the retreats held and if there is any upcoming retreats, they will appear on this page.
+    
+    ![Retreats](assets/documentation/retreat-main.png)
+
     - This page also includes a **Gallery** where users can see examples of what happens on retreats.
     - The user should feel excited and further encouraged to participate with Meditate With Alfred in retreats.
 
-(insert Retreats photos here)
+    ![Gallery](assets/documentation/gallery.png)
 
 - **Join Us page**
     - This page has an interactive **form** where the user can share their information in return for a free meditation. They are asked for their name, email and whether they're interested in online, in person or retreat meditations.
     - The user should feel motivated to fill in the form. 
 
-(insert Join Us photo here)
+     ![Join Us Form](assets/documentation/form-1.png)
 
 - **Thank You page**
     - This page has an embedded **YouTube video**. This is a free 15 minute meditation for the user, as a thank you for registering their details with Meditate With Alfred.
     - The user should feel appreciated and welcomed to the Meditate With Alfred website and excited to receive an email from the Meditate With Alfred team.
 
-(insert Thank you page photo here)
+     ![Thank You](assets/documentation/thankyou.png)
 
 ### **Potential Future Features**
 - Add a members area for subscription based users. Here there would be exclusive meditations, Q&A's with Alfred and more ways to experience community within Meditate With Alfred.
@@ -71,7 +77,7 @@ I found inspiration for this website from YouTube and Find What Feels Good commu
 
 The colour palette for Meditate With Alfred was intended to be peaceful and welcoming, with consistent design across all pages. The colours were found on on the website [mycolor](https://mycolor.space/)
 
-(add colours here)
+![Colours](assets/documentation/color-palette.png)
 
 ## Testing
 ------
@@ -87,7 +93,9 @@ The colour palette for Meditate With Alfred was intended to be peaceful and welc
     - [W3C CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
 
 - **Lighthouse**
-    - Developer Tools Lighthouse Accessability Checker
+    - Developer Tools Lighthouse Accessability Checker gave Meditate With Alfred 100 on Performance, Accessibility, Best Practices and SEO
+
+    ![Lighthouse report](assets/documentation/lighthouse.png)
 
 ### **Responsiveness**
 - I tested the responsiveness of Meditate With Alfred using the developer tools of my browser and changing the screen size to fit each major device. I also dragged the screen from wide to skinny so make sure that all common device sizes are covered. 
@@ -96,10 +104,8 @@ The colour palette for Meditate With Alfred was intended to be peaceful and welc
     - 2K+ Screens (1440px minimum width)
     - Tablets (900px max width)
     - Medium to large phones, inluding foldable phones. (800px max width)
-    - Smaller phones eg. iPhone SE (width 375px - 550px max width)
-    - Very small screens (330-374px max width)
-
-(insert photos here)
+    - Smaller phones eg. iPhone SE (375px-550px width)
+    - Very small screens (300-375px width)
 
 ### **Bugs**
 
@@ -119,7 +125,7 @@ The colour palette for Meditate With Alfred was intended to be peaceful and welc
 Throughout the process of writing the code of this website. A few mistakes were made.
 - A few of the first commits were over the 50 character max length.
 
-(insert screenshot here)
+     ![mistakes](assets/documentation/commit-mistake.png)
 
 *Solution: I adapted my commits to be shorter.*
 
@@ -148,9 +154,7 @@ Meditate with Alfred was deployed onto GitHub Pages. Here are the steps to deplo
 - On the left hand menu, under ***Code and automation*** subtitle see ***Pages***
 - Under ***Build and deployment*** and ***Branch*** choose ***Main***, click Save.
 - This page will then refresh and the name of the website with live link will be available within a few minutes.
-- Find this link here
-
-(Add link here)
+- Find this link [here](https://alfreda93.github.io/meditate-with-alfred/)
 
 ## Credits 
 ------
@@ -158,11 +162,7 @@ Meditate with Alfred was deployed onto GitHub Pages. Here are the steps to deplo
 
 - The code for embedding the YouTube video on the Thank You page was taken from the share button on this [video](https://www.youtube.com/watch?v=Wy1KXcRBV2c)
 
-(insert YouTube iframe screenshot)
-
 - The icons used are from the site [FontAwesome](https://fontawesome.com/)
-
-(insert FontAwesome script Screenshot)
 
 - Fonts were installed using `@import` code from [Google Fonts](https://fonts.google.com/)
 
@@ -177,12 +177,15 @@ Throughout writing the code, I looked over learning resources and helpful videos
 
 ### **Media**
 
-All images were sourced from [Unsplash](https://unsplash.com/)
+- All images were sourced from [Unsplash](https://unsplash.com/)
 
-The images were then converted into webp file type using [freeconvert](https://www.freeconvert.com/webp-converter/)
+- The images were then converted into webp file type using [freeconvert](https://www.freeconvert.com/webp-converter/)
 
-The wireframes were made using [wireframe.cc](https://wireframe.cc) and [Adobe Fresco](https://www.adobe.com/products/fresco.html) for iPad, which were drawn by myself.
+- The wireframes were made using [wireframe.cc](https://wireframe.cc) and [Adobe Fresco](https://www.adobe.com/products/fresco.html) for iPad, which were drawn by myself.
 
-Colour Gradients/Palettes were found on the website [mycolor](https://mycolor.space/) 
+- Colour Gradients/Palettes were found on the website [mycolor](https://mycolor.space/) 
 ## Wireframes
 ------
+![Wireframe 1](assets/documentation/wireframe-sketch-1.PNG)
+![Wireframe 2](assets/documentation/wireframe-sketch-2.PNG)
+![Wireframe 3](assets/documentation/wireframe-1.png)
