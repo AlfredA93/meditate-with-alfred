@@ -405,7 +405,8 @@ footer p {
         font-size: 220%;
         position: absolute;
         text-align: center;
-        color: #343434
+        color: #343434;
+        width: 95%;
     }
     
     #navbar {
@@ -414,6 +415,8 @@ footer p {
         color: #343434;
         letter-spacing: 1px;
         text-align: center;
+        justify-content: center;
+        padding: 50px 0 0 0;
     }
 
     #retreats-container {
@@ -457,10 +460,10 @@ footer p {
     
     #navbar {
         font-family: 'Noto Sans JP', sans-serif;
-        font-size: 125%;
+        font-size: 100%;
         color: #343434;
         letter-spacing: 1px;
         text-align: center;
-        padding-top: 75px;
+        padding-top: 50px;
     }
 }
