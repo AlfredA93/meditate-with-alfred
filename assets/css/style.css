@@ -243,6 +243,14 @@ footer p {
     color: #FFFADE;
 }
 
+#surname-style {
+    padding-left: 8px;
+}
+
+#email-style {
+    padding-right: 38px;
+}
+
 /* Thank You Page */
 
 #thankyouimage {
