@@ -176,6 +176,7 @@ Throughout writing the code, I looked over learning resources and helpful videos
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) concepts from CSS Tricks website
 - YouTube [video](https://www.youtube.com/watch?v=phWxA89Dy94) explaining Flexbox.
 - W3 School website for [CSS Buttons](https://www.w3schools.com/css/css3_buttons.asp)
+- [Stack overflow](https://stackoverflow.com/questions/24837102/the-element-button-must-not-appear-as-a-descendant-of-the-a-element) helped me understand why the element button must not appear as a descendant of the a element.
 
 ### **Media**
 
