@@ -269,7 +269,7 @@ footer p {
     background-color: rgba( 0, 0, 0, 0.75);
     border-radius: 10px;
 }
-
+/*
 /* Responsive Design for 2K+ Screens */
 
 @media screen and (min-width: 1440px) {
@@ -334,6 +334,7 @@ footer p {
         justify-content: center;
         align-items: stretch;
         align-content: stretch;
+        gap: 7.5px;
     }
 
     iframe {
@@ -388,9 +389,9 @@ footer p {
     }
 }
 
-/* For very small screens or windows under 375px */
+/* For very small screens or windows with max width 375px */
 
-@media screen and (max-width:374px) {
+@media screen and (max-width:375px) {
 
     #mainlogo {
         font-size: 175%;
@@ -410,5 +411,14 @@ footer p {
     
     #email-style {
         padding-right: 26px;
+    }
+
+    #hero-text {
+        font-size: 75%;
+        width:95%;
+    }
+
+    .flex {
+        gap: 2.5px;
     }
 }
