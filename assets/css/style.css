@@ -339,14 +339,14 @@ footer p {
 }
 
 @media screen and (max-width:800px) {
-
+    
     #mainlogo {
         font-family: 'Noto Sans JP', sans-serif;
         font-size: 300%;
         position: absolute;
         text-align: center;
-        margin: 0;
-        color: #343434
+        color: #343434;
+        width: 95%;
     }
     
     #navbar {
@@ -354,8 +354,9 @@ footer p {
         font-size: 125%;
         color: #343434;
         letter-spacing: 1px;
-        padding-top: 60px;
         text-align: center;
+        justify-content: center;
+        padding: 70px 0 0 0;
     }
 
     #hero {
@@ -407,21 +408,11 @@ footer p {
 @media screen and (max-width:550px) {
     
     #mainlogo {
-        font-family: 'Noto Sans JP', sans-serif;
         font-size: 220%;
-        position: absolute;
-        text-align: center;
-        color: #343434;
-        width: 95%;
     }
     
     #navbar {
-        font-family: 'Noto Sans JP', sans-serif;
         font-size: 125%;
-        color: #343434;
-        letter-spacing: 1px;
-        text-align: center;
-        justify-content: center;
         padding: 50px 0 0 0;
     }
 
@@ -475,20 +466,11 @@ footer p {
 @media screen and (max-width:374px) {
 
     #mainlogo {
-        font-family: 'Noto Sans JP', sans-serif;
         font-size: 175%;
-        position: absolute;
-        text-align: center;
-        color: #343434
     }
     
     #navbar {
-        font-family: 'Noto Sans JP', sans-serif;
         font-size: 100%;
-        color: #343434;
-        letter-spacing: 1px;
-        text-align: center;
-        padding-top: 50px;
     }
 
     #form-container {
