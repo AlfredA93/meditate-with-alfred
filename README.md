@@ -1,6 +1,6 @@
 # Meditate With Alfred
 
-Meditate With Alfred is a website for anyone and everyone who would like to meditate. Whether they are brand new to practicing meditation or a more experienced meditator. This site offers infomation for people to join Alfred in group meditations whether online or in Cologne, Germany. You can visit the site [here](.......)
+Meditate With Alfred is a website for anyone and everyone who would like to meditate. Whether they are brand new to practicing meditation or a more experienced meditator, this site offers infomation for people to join Alfred in group meditations whether online or locally, in Cologne, Germany. You can visit the site [here](.......)
 
 (insert ami.responsivedesign.is image here)
 
@@ -198,7 +198,5 @@ The images were then converted into webp file type using [freeconvert](https://w
 The wireframes were made using [wireframe.cc](https://wireframe.cc) and [Adobe Fresco](https://www.adobe.com/products/fresco.html) for iPad, which were drawn by myself.
 
 Colour Gradients/Palettes were found on the website [mycolor](https://mycolor.space/) 
-
-Google
 ## Wireframes
 ------
