@@ -255,6 +255,8 @@ footer p {
 }
 
 #thankyou-text {
+    display: flex;
+    
     text-align: center;
     padding: 10px 10px 30px 10px;
     color:#FFFADE;
@@ -372,6 +374,16 @@ footer p {
         border-radius: 10px;
     }
 
+    .flex {
+        display: flex;
+        justify-content: center;
+        align-items: stretch;
+        flex-wrap: wrap;
+        align-content: stretch;
+        gap: 15px;
+        padding-top: 1%;
+    }
+
     iframe {
         width:auto;
         height: auto;
@@ -402,26 +414,6 @@ footer p {
         color: #343434;
         letter-spacing: 1px;
         text-align: center;
-    }
-
-    .flex {
-        display:flex;
-        justify-content: space-evenly;
-        align-items: center;
-        flex-wrap:wrap;
-        align-content:space-around;
-        gap: 2px;
-        padding-top: 1%;
-    }
-
-    .flexitem {
-        width:25%;
-        text-align: center;
-        border:#343434 solid 1px;
-        border-radius: 10px;
-        border-spacing: 2px;
-        padding: 5px 5px 5px 5px;
-        min-height: 125px;
     }
 
     #retreats-container {
