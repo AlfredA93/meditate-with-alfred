@@ -90,7 +90,9 @@ The colour palette for Meditate With Alfred was intended to be peaceful and welc
     - [W3C HTML Validator](https://validator.w3.org/#validate_by_uri+with_options)
 
 - **CSS**
-    - [W3C CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
+    - [W3C CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/) has confirmed Meditate With Alfred has 0 errors.
+
+    ![CSS Valid](assets/documentation/CSS-valid.png)
 
 - **Lighthouse**
     - Developer Tools Lighthouse Accessability Checker gave Meditate With Alfred 100 on Performance, Accessibility, Best Practices and SEO
