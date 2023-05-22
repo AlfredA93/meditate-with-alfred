@@ -65,26 +65,37 @@ Meditate With Alfred is a website for anyone and everyone who would like to medi
 ### Potential Future Features
 - Add a members area for subscription based users. Here there would be exclusive meditations, Q&A's with Alfred and more ways to experience community within Meditate With Alfred.
 
+## Design
+------
+I found inspiration for this website from YouTube and Find What Feels Good community Yoga Teacher Adrienne at her website [Find What Feels Good](https://fwfg.com)
+
 ## Testing
 ------
 
 ### Validator Testing
 - **HTML**
-    - 
+    - [W3C HTML Validator](https://validator.w3.org/#validate_by_uri+with_options)
 
 - **CSS**
-    - 
+    - [W3C CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
 
 - **Lighthouse**
+    - Developer Tools Lighthouse Accessability Checker
 
 ### Responsiveness
+- I tested the responsiveness of Meditate With Alfred using the developer tools of my browser and changing the screen size to fit each major device. I also dragged the screen from wide to skinny so make sure that all common device sizes are covered. 
 
-To make sure Meditate With Alfred is accessible to all devices I added Media Queries and associated styling for the following sizes:
-- 2K+ Screens (1440px minimum width)
-- Tablets (900px max width)
-- Medium to large phones, inluding foldable phones. (800px max width)
-- Smaller phones eg. iPhone SE (width 375px - 550px max width)
-- Very small screens (300-374px max width)
+- To make sure Meditate With Alfred is accessible to all devices I added Media Queries and associated styling for the following sizes:
+    - 2K+ Screens (1440px minimum width)
+    - Tablets (900px max width)
+    - Medium to large phones, inluding foldable phones. (800px max width)
+    - Smaller phones eg. iPhone SE (width 375px - 550px max width)
+    - Very small screens (300-374px max width)
+
+- I checked the website on browsers:
+    - Chrome
+    - Firefox
+    - Brave
 
 (insert photos here)
 
@@ -120,52 +131,61 @@ I learnt alot throughout the making of this website, especially regarding git co
 
 ## Deployment
 ------
+Meditate with Alfred was deployed onto GitHub Pages
 
 ## Credits 
 ------
-### Content
+### **Content**
 
 - The code for embedding the YouTube video on the Thank You page was taken from the share button on this [video](https://www.youtube.com/watch?v=Wy1KXcRBV2c)
 
 (insert YouTube iframe screenshot)
 
 - The icons used are from the site [FontAwesome](https://fontawesome.com/)
+
 (insert FontAwesome script Screenshot)
-#### Helpsheets and Learning Resources
+
+- Fonts were installed using `@import` code from [Google Fonts](https://fonts.google.com/)
+
+### **Helpsheets and Learning Resources**
 
 Throughout writing the code, I looked over learning resources and helpful videos to inspire and understand the syntax of the code with greater clarity. These are as follows -
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) concepts from CSS Tricks website
 - YouTube [video](https://www.youtube.com/watch?v=phWxA89Dy94) explaining Flexbox.
 - W3 School website for [CSS Buttons](https://www.w3schools.com/css/css3_buttons.asp)
 
-### Media
+### **Media**
 
 All images were sourced from [Unsplash](https://unsplash.com/)
 
 Below are all the authors and their file names 
-retreat-1 - Ale Romo
-retreat-2 - Alexandra Smielova
-retreat-3 - Erik Brolin
-retreat-4 - Annie Spratt
-retreat-5 - Jared Rice
-retreat-6 - Shane Rounce
-retreat-7 - 五玄土 ORIENTO
-retreat-8 - Max Harlynking
-retreat-9 - Ralph (Ravi) Kayden
-retreat-10 - Espen Bierud
-retreat-11 - Jernej Graj
-retreat-12 - Mauro Shared Pictures
-retreat-13 - PRATEEK JAISWAL
-retreat-15 - Ralph (Ravi) Kayden
-background-3 - Muneeb Syed
-background-4 - Saira
-background-5 - Ian Keefe
-hero-image3 - Daniel Mingook Kim
-hero-image4 - Daniel Mingook Kim
+- retreat-1 - Ale Romo
+- retreat-2 - Alexandra Smielova
+- retreat-3 - Erik Brolin
+- retreat-4 - Annie Spratt
+- retreat-5 - Jared Rice
+- retreat-6 - Shane Rounce
+- retreat-7 - 五玄土 ORIENTO
+- retreat-8 - Max Harlynking
+- retreat-9 - Ralph (Ravi) Kayden
+- retreat-10 - Espen Bierud
+- retreat-11 - Jernej Graj
+- retreat-12 - Mauro Shared Pictures
+- retreat-13 - PRATEEK JAISWAL
+- retreat-15 - Ralph (Ravi) Kayden
+- background-3 - Muneeb Syed
+- background-4 - Saira
+- background-5 - Ian Keefe
+- hero-image3 - Daniel Mingook Kim
+- hero-image4 - Daniel Mingook Kim
 
 The images were then converted into webp file type using [freeconvert](https://www.freeconvert.com/webp-converter/)
 
+The wireframes were made using [wireframe.cc](https://wireframe.cc) and [Adobe Fresco](https://www.adobe.com/products/fresco.html) for iPad, which were drawn by myself.
 
+Colour Gradients were found on the website [mycolor](https://mycolor.space/) 
+
+Google
 ## Wireframes
 ------
 
