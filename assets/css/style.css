@@ -438,18 +438,10 @@ footer p {
 
     #gallery {
         column-count: 2;
-        column-gap: 0px;
-        line-height: 0;
     }
 
     #form-container {
-        text-align:center;
         font-size: medium;
-        font-family: 'Jost', sans-serif;
-        letter-spacing: 0.5px;
-        background-color: rgba( 0, 0, 0, 0.5);
-        padding: 5% 5% 5% 5%;
-        color: #FFFADE;
     }
     
     #surname-style {
@@ -474,13 +466,7 @@ footer p {
     }
 
     #form-container {
-        text-align:center;
         font-size: small;
-        font-family: 'Jost', sans-serif;
-        letter-spacing: 0.5px;
-        background-color: rgba( 0, 0, 0, 0.5);
-        padding: 5% 5% 5% 5%;
-        color: #FFFADE;
     }
     
     #surname-style {
