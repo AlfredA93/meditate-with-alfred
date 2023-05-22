@@ -141,7 +141,7 @@ Meditate with Alfred was deployed onto GitHub Pages. Here are the steps to deplo
 
 - Within the repository name of the project (meditate-with-alfred), go to the ***Settings*** tab
 - On the left hand menu, under ***Code and automation*** subtitle see ***Pages***
-- Under ***Build and deployment*** and ***Source*** choose ***Main***, click Save.
+- Under ***Build and deployment*** and ***Branch*** choose ***Main***, click Save.
 - This page will then refresh and the name of the website with live link will be available within a few minutes.
 - Find this link here
 
@@ -161,6 +161,8 @@ Meditate with Alfred was deployed onto GitHub Pages. Here are the steps to deplo
 
 - Fonts were installed using `@import` code from [Google Fonts](https://fonts.google.com/)
 
+- Favicon Icon used to give the tab an icon was sourced from [favicon.cc](https://www.favicon.cc/?action=icon&file_id=941316)
+
 ### **Helpsheets and Learning Resources**
 
 Throughout writing the code, I looked over learning resources and helpful videos to inspire and understand the syntax of the code with greater clarity. These are as follows -
@@ -171,27 +173,6 @@ Throughout writing the code, I looked over learning resources and helpful videos
 ### **Media**
 
 All images were sourced from [Unsplash](https://unsplash.com/)
-
-Below are all the authors and their file names 
-- retreat-1 - Ale Romo
-- retreat-2 - Alexandra Smielova
-- retreat-3 - Erik Brolin
-- retreat-4 - Annie Spratt
-- retreat-5 - Jared Rice
-- retreat-6 - Shane Rounce
-- retreat-7 - 五玄土 ORIENTO
-- retreat-8 - Max Harlynking
-- retreat-9 - Ralph (Ravi) Kayden
-- retreat-10 - Espen Bierud
-- retreat-11 - Jernej Graj
-- retreat-12 - Mauro Shared Pictures
-- retreat-13 - PRATEEK JAISWAL
-- retreat-15 - Ralph (Ravi) Kayden
-- background-3 - Muneeb Syed
-- background-4 - Saira
-- background-5 - Ian Keefe
-- hero-image3 - Daniel Mingook Kim
-- hero-image4 - Daniel Mingook Kim
 
 The images were then converted into webp file type using [freeconvert](https://www.freeconvert.com/webp-converter/)
 
