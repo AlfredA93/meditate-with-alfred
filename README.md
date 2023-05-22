@@ -138,7 +138,7 @@ Throughout the process of writing the code of this website. A few mistakes were 
 
 ### **Mistakes Conclusion**
 
-I learnt alot throughout the making of this website, especially regarding git commit's. This was a valuable lesson which I learnt and applied very quickly and also highlighted how easy it can be to make a simple mistake. This helped me to stay focused and aware of what I enter between commit's and saves. 
+I learnt alot throughout the making of this website, especially regarding git commit's. This was a valuable lesson to learn and potentially to be expected being new to Git and GitHub. I remain humbled by how easy it is to make such a simple mistake and this experience during the process of making this website helped me to stay focused and aware of what I enter between commit's and saves. 
 
 ## Deployment
 ------
