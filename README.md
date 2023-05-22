@@ -69,9 +69,16 @@ Meditate With Alfred is a website for anyone and everyone who would like to medi
 ------
 I found inspiration for this website from YouTube and Find What Feels Good community Yoga Teacher Adrienne at her website [Find What Feels Good](https://fwfg.com)
 
+The colour palette for Meditate With Alfred was intended to be peaceful and welcoming, with consistent design across all pages. The colours were found on on the website [mycolor](https://mycolor.space/)
+
+(add colours here)
+
 ## Testing
 ------
-
+- I checked the website for responsive design and performance on browsers:
+    - Chrome
+    - Firefox
+    - Brave
 ### Validator Testing
 - **HTML**
     - [W3C HTML Validator](https://validator.w3.org/#validate_by_uri+with_options)
@@ -91,11 +98,6 @@ I found inspiration for this website from YouTube and Find What Feels Good commu
     - Medium to large phones, inluding foldable phones. (800px max width)
     - Smaller phones eg. iPhone SE (width 375px - 550px max width)
     - Very small screens (300-374px max width)
-
-- I checked the website on browsers:
-    - Chrome
-    - Firefox
-    - Brave
 
 (insert photos here)
 
@@ -125,13 +127,25 @@ Throughout the process of writing the code of this website. A few mistakes were 
 
 *Solution: When this happened, I often noticed immediately, so I sent the same `git commit -m "    "` commit message twice in a row, so this would be covered.*
 
+- When writing `git commit`'s for this README documentation, I accidently typed in the past tense.
+
+*Solution: I noticed this within 2 commits and went back to the usual present tense*
+
 ### **Mistakes Conclusion**
 
 I learnt alot throughout the making of this website, especially regarding git commit's. This was a valuable lesson which I learnt and applied very quickly and also highlighted how easy it can be to make a simple mistake. This helped me to stay focused and aware of what I enter between commit's and saves. 
 
 ## Deployment
 ------
-Meditate with Alfred was deployed onto GitHub Pages
+Meditate with Alfred was deployed onto GitHub Pages. Here are the steps to deploy this website:
+
+- Within the repository name of the project (meditate-with-alfred), go to the ***Settings*** tab
+- On the left hand menu, under ***Code and automation*** subtitle see ***Pages***
+- Under ***Build and deployment*** and ***Source*** choose ***Main***, click Save.
+- This page will then refresh and the name of the website with live link will be available within a few minutes.
+- Find this link here
+
+(Add link here)
 
 ## Credits 
 ------
@@ -183,63 +197,8 @@ The images were then converted into webp file type using [freeconvert](https://w
 
 The wireframes were made using [wireframe.cc](https://wireframe.cc) and [Adobe Fresco](https://www.adobe.com/products/fresco.html) for iPad, which were drawn by myself.
 
-Colour Gradients were found on the website [mycolor](https://mycolor.space/) 
+Colour Gradients/Palettes were found on the website [mycolor](https://mycolor.space/) 
 
 Google
 ## Wireframes
 ------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-Welcome,
-
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
-
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
-
-## Codeanywhere Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
-
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
