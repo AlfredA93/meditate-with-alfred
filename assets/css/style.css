@@ -450,6 +450,24 @@ footer p {
         column-gap: 0px;
         line-height: 0;
     }
+
+    #form-container {
+        text-align:center;
+        font-size: medium;
+        font-family: 'Jost', sans-serif;
+        letter-spacing: 0.5px;
+        background-color: rgba( 0, 0, 0, 0.5);
+        padding: 5% 5% 5% 5%;
+        color: #FFFADE;
+    }
+    
+    #surname-style {
+        padding-left: 7px;
+    }
+    
+    #email-style {
+        padding-right: 32px;
+    }
 }
 
 /* For very small screens or windows under 375px */
@@ -471,5 +489,23 @@ footer p {
         letter-spacing: 1px;
         text-align: center;
         padding-top: 50px;
+    }
+
+    #form-container {
+        text-align:center;
+        font-size: small;
+        font-family: 'Jost', sans-serif;
+        letter-spacing: 0.5px;
+        background-color: rgba( 0, 0, 0, 0.5);
+        padding: 5% 5% 5% 5%;
+        color: #FFFADE;
+    }
+    
+    #surname-style {
+        padding-left: 7px;
+    }
+    
+    #email-style {
+        padding-right: 26px;
     }
 }
