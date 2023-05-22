@@ -131,6 +131,10 @@ Throughout the process of writing the code of this website. A few mistakes were 
 
 *Solution: I noticed this within 2 commits and went back to the usual present tense*
 
+- When adding documentation images to folder, I commited with a message on Media Screen Styling and forgot to add note on image add.
+*Solution: I noticed immediately and added a note with the next commit*
+
+
 ### **Mistakes Conclusion**
 
 I learnt alot throughout the making of this website, especially regarding git commit's. This was a valuable lesson which I learnt and applied very quickly and also highlighted how easy it can be to make a simple mistake. This helped me to stay focused and aware of what I enter between commit's and saves. 
