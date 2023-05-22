@@ -301,7 +301,6 @@ footer p {
     #hero {
         background-image: url(../webpimages/hero-image4.webp);
         height:450px;
-        background-size: fill;
     }
 
     #hero-text {
