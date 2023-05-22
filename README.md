@@ -132,7 +132,8 @@ Throughout the process of writing the code of this website. A few mistakes were 
 *Solution: I noticed this within 2 commits and went back to the usual present tense*
 
 - When adding documentation images to folder, I commited with a message on Media Screen Styling and forgot to add note on image add.
-*Solution: I noticed immediately and added a note with the next commit*
+*Solution: I noticed immediately and added a note with the next commit. Only `git add assets/css/style.css` instead of `git add .` which adds everything, not just one file at a time*
+
 
 
 ### **Mistakes Conclusion**
