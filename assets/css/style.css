@@ -124,17 +124,17 @@ button:hover {
     min-height: 125px;
 }
 
-#color1 {
+.color1 {
     background-color: #2B1B53;
     color: #FFFADE;
 }
 
-#color2 {
+.color2 {
     background-color: #503D79;
     color: #FFFADE;
 }
 
-#color3 {
+.color3 {
     background-color: #4a4453;
     color: #FFFADE;
 }
