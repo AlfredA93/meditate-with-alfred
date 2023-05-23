@@ -81,7 +81,7 @@ The colour palette for Meditate With Alfred was intended to be peaceful and welc
 
 ## Testing
 ------
-- I checked the website for responsive design and performance on browsers:
+- I checked the website for responsive design, accessibility and performance on browsers:
     - Chrome
     - Firefox
     - Brave
