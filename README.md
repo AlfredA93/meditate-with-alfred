@@ -122,6 +122,9 @@ The colour palette for Meditate With Alfred was intended to be peaceful and welc
 - Problem: Hero image text not appearing on top of hero image
     - *Solution: Set the `position` of hero image text to `absolute`*
 
+- Problem: Sticky footer causing the scroll bar to be present on every size screen.
+    - *Solution: I couldn't find the solution as of yet, so I removed the feature*
+
 #### **Unfixed Bugs**
 
 - None
