@@ -270,6 +270,18 @@ footer p {
     border-radius: 10px;
 }
 
+/* Sticky Footer */
+
+.sticky {
+    display: flex;
+    min-height: 94vh;
+    flex-direction: column;
+  }
+  
+  .footer {
+    flex: 1;
+  }
+
 /* Responsive Design for 2K+ Screens */
 
 @media screen and (min-width: 1440px) {

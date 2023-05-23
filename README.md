@@ -175,6 +175,8 @@ Meditate with Alfred was deployed onto GitHub Pages. Here are the steps to deplo
 
 - Favicon Icon used to give the tab an icon was sourced from [favicon.cc](https://www.favicon.cc/?action=icon&file_id=941316)
 
+- [Sticky Footer](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/) code was from Solved by Flexbox website by hilip Walton - I adapted it to suit Meditate With Alfred.
+
 ### **Helpsheets and Learning Resources**
 
 Throughout writing the code, I looked over learning resources and helpful videos to inspire and understand the syntax of the code with greater clarity. These are as follows -
